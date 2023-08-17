@@ -1,0 +1,20 @@
+﻿Connect "TutorialSUT"
+
+Click imageName:"Favorites", waitFor:1
+
+put ("tap","still","fake","lie") into myVerificationTerms
+put ("contacts","favorites","history","downloads") into myButtons
+
+repeat with each item CurrentButton of myButtons
+	Click image:CurrentButton
+	Put item repeatindex() of myVerificationTerms into CurrentTerm
+	
+	If ImageFound(text:CurrentTerm, waitFor:2) then
+		LogSuccess "Landed on" && CurrentButton && "page"
+	Else
+		LogWarning "Did NOT land on " && CurrentButton && "page"
+	End if
+	
+end repeat
+
+Try Disconnect "TutorialSUT"

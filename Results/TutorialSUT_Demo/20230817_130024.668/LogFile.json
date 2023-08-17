@@ -1,0 +1,149 @@
+{
+	"entries": [
+		{
+				"message": "Running TutorialSUT_Demo.script",
+				"identifier": "START",
+				"timestamp": "2023-08-17 13:00:24.680 -0400"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:24.773 -0400",
+				"message": "TutorialSUT:(null)",
+				"scriptName": "TutorialSUT_Demo.script",
+				"handlerLine": 1,
+				"identifier": "Connect"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:24.925 -0400",
+				"scriptName": "TutorialSUT_Demo.script",
+				"message": "at (162, 600)",
+				"image": "Favorites",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:27.101 -0400",
+				"scriptName": "TutorialSUT_Demo.script",
+				"message": "at (56, 598)",
+				"image": "contacts",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:27.296 -0400",
+				"scriptName": "TutorialSUT_Demo.script",
+				"message": "found at (32, 242)",
+				"image": "(TEXT:\"tap\")",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:27.300 -0400",
+				"message": "Landed on contacts page",
+				"scriptName": "TutorialSUT_Demo.script",
+				"handlerLine": 13,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:29.282 -0400",
+				"scriptName": "TutorialSUT_Demo.script",
+				"message": "at (162, 600)",
+				"image": "favorites",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:29.481 -0400",
+				"scriptName": "TutorialSUT_Demo.script",
+				"message": "found at (35, 211)",
+				"image": "(TEXT:\"still\")",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:29.488 -0400",
+				"message": "Landed on favorites page",
+				"scriptName": "TutorialSUT_Demo.script",
+				"handlerLine": 13,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:31.468 -0400",
+				"scriptName": "TutorialSUT_Demo.script",
+				"message": "at (265, 593)",
+				"image": "history",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:31.597 -0400",
+				"scriptName": "TutorialSUT_Demo.script",
+				"message": "found at (113, 211)",
+				"image": "(TEXT:\"fake\")",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:31.604 -0400",
+				"message": "Landed on history page",
+				"scriptName": "TutorialSUT_Demo.script",
+				"handlerLine": 13,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:33.647 -0400",
+				"scriptName": "TutorialSUT_Demo.script",
+				"message": "at (371, 597)",
+				"image": "downloads",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:33.808 -0400",
+				"scriptName": "TutorialSUT_Demo.script",
+				"message": "found at (193, 211)",
+				"image": "(TEXT:\"lie\")",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:33.812 -0400",
+				"message": "Landed on downloads page",
+				"scriptName": "TutorialSUT_Demo.script",
+				"handlerLine": 13,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_tutorialsut_demo",
+				"timestamp": "2023-08-17 13:00:33.967 -0400",
+				"message": "Tutorial Connection",
+				"scriptName": "TutorialSUT_Demo.script",
+				"handlerLine": 20,
+				"identifier": "Disconnect"
+			},
+		{
+				"message": "(Duration:\"9.411\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-08-17 13:00:24 -0400\", Successes:\"4\", TestCase:\"TutorialSUT_Demo.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-08-17 13:00:34.103 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:09 TutorialSUT_Demo.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-08-17 13:00:34.159 -0400"
+			}
+	],
+	"createdTimestamp": "2023-08-17 13:00:24.688 -0400"
+}

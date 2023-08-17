@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="TutorialSUT_Demo">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-08-17 13:00:24 -0400</FirstRun>
+  <LastRun>2023-08-17 13:00:24 -0400</LastRun>
+  <TotalTimeOnSuccess>9.432000</TotalTimeOnSuccess>
+ </script>
+</statistics>

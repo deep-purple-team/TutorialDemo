@@ -1,0 +1,18 @@
+﻿2023-08-17 13:00:24.680 -0400	START		Running TutorialSUT_Demo.script
+2023-08-17 13:00:24.773 -0400	Connect		TutorialSUT:(null)	1	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:24.925 -0400	click	Favorites	at (162, 600)	3	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:27.101 -0400	click	contacts	at (56, 598)	9	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:27.296 -0400	imagefound	(TEXT:"tap")	found at (32, 242)	12	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:27.300 -0400	LogSuccess		Landed on contacts page	13	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:29.282 -0400	click	favorites	at (162, 600)	9	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:29.481 -0400	imagefound	(TEXT:"still")	found at (35, 211)	12	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:29.488 -0400	LogSuccess		Landed on favorites page	13	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:31.468 -0400	click	history	at (265, 593)	9	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:31.597 -0400	imagefound	(TEXT:"fake")	found at (113, 211)	12	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:31.604 -0400	LogSuccess		Landed on history page	13	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:33.647 -0400	click	downloads	at (371, 597)	9	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:33.808 -0400	imagefound	(TEXT:"lie")	found at (193, 211)	12	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:33.812 -0400	LogSuccess		Landed on downloads page	13	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:33.967 -0400	Disconnect		Tutorial Connection	20	on_tutorialsut_demo	TutorialSUT_Demo.script
+2023-08-17 13:00:34.103 -0400	EndTestCase		(Duration:"9.411", Errors:"0", Exceptions:"0", StartTime:"2023-08-17 13:00:24 -0400", Successes:"4", TestCase:"TutorialSUT_Demo.script", Warnings:"0")
+2023-08-17 13:00:34.159 -0400	SUCCESS		Execution Time 0:00:09 TutorialSUT_Demo.script
